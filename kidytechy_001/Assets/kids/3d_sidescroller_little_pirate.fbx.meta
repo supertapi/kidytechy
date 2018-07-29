@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 55cb4313c1e08944b8e0a3e0c8001d2a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: arm_L
+    100004: arm_R
+    100006: Camera
+    100008: character
+    100010: clavicle_L
+    100012: clavicle_R
+    100014: Cube.000
+    100016: Cube.001
+    100018: foot_L
+    100020: foot_R
+    100022: hand_L
+    100024: hand_R
+    100026: head
+    100028: head_end
+    100030: hips
+    100032: hips_L
+    100034: hips_R
+    100036: index_2_L
+    100038: index_2_R
+    100040: index_3_L
+    100042: index_3_L_end
+    100044: index_3_R
+    100046: index_3_R_end
+    100048: index_L
+    100050: index_R
+    100052: Lamp
+    100054: Lamp.001
+    100056: Lamp.002
+    100058: leg_L
+    100060: leg_R
+    100062: lower_arm_L
+    100064: lower_arm_R
+    100066: lower_leg_L
+    100068: lower_leg_R
+    100070: middle_2_L
+    100072: middle_2_R
+    100074: middle_3_R
+    100076: middle_3_R.001
+    100078: middle_3_R.001_end
+    100080: middle_3_R_end
+    100082: middle_L
+    100084: middle_R
+    100086: neck
+    100088: rig
+    100090: root
+    100092: spine
+    100094: spine 2
+    100096: thumb_2_L
+    100098: thumb_2_L_end
+    100100: thumb_2_R
+    100102: thumb_2_R_end
+    100104: thumb_L
+    100106: thumb_R
+    100108: toe_L
+    100110: toe_L_end
+    100112: toe_R
+    100114: toe_R_end
+    400000: //RootNode
+    400002: arm_L
+    400004: arm_R
+    400006: Camera
+    400008: character
+    400010: clavicle_L
+    400012: clavicle_R
+    400014: Cube.000
+    400016: Cube.001
+    400018: foot_L
+    400020: foot_R
+    400022: hand_L
+    400024: hand_R
+    400026: head
+    400028: head_end
+    400030: hips
+    400032: hips_L
+    400034: hips_R
+    400036: index_2_L
+    400038: index_2_R
+    400040: index_3_L
+    400042: index_3_L_end
+    400044: index_3_R
+    400046: index_3_R_end
+    400048: index_L
+    400050: index_R
+    400052: Lamp
+    400054: Lamp.001
+    400056: Lamp.002
+    400058: leg_L
+    400060: leg_R
+    400062: lower_arm_L
+    400064: lower_arm_R
+    400066: lower_leg_L
+    400068: lower_leg_R
+    400070: middle_2_L
+    400072: middle_2_R
+    400074: middle_3_R
+    400076: middle_3_R.001
+    400078: middle_3_R.001_end
+    400080: middle_3_R_end
+    400082: middle_L
+    400084: middle_R
+    400086: neck
+    400088: rig
+    400090: root
+    400092: spine
+    400094: spine 2
+    400096: thumb_2_L
+    400098: thumb_2_L_end
+    400100: thumb_2_R
+    400102: thumb_2_R_end
+    400104: thumb_L
+    400106: thumb_R
+    400108: toe_L
+    400110: toe_L_end
+    400112: toe_R
+    400114: toe_R_end
+    2000000: Camera
+    2100000: char
+    2100002: Material
+    2300000: Cube.000
+    2300002: Cube.001
+    3300000: Cube.000
+    3300002: Cube.001
+    4300000: character
+    4300002: Cube.000
+    4300004: Cube.001
+    7400000: rig|crash
+    7400002: rig|crouch
+    7400004: rig|Idle
+    7400006: rig|idle2
+    7400008: rig|jump
+    7400010: rig|run
+    7400012: rig|walk
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Lamp.001
+    10800004: Lamp.002
+    13700000: character
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
